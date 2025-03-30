@@ -11,13 +11,13 @@ ChatSage is a smart and interactive chatbot designed to provide accurate answers
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/chatbot-project.git
-   cd chatbot-project
+   git clone https://github.com/kojiima001/ChatSage.git
+   cd chatsage
    ```
 
 2. Ensure you have Python installed (Python 3.x recommended).
 
-## Running the Chatbot
+## Running chatSage
 
 1. Run the chatbot:
    ```sh
@@ -35,7 +35,7 @@ python chatbot_test.py
 
 ## Adding New Knowledge
 
-If the chatbot doesn't know an answer, modify `knowledge_base.json` manually or add functionality to let it learn dynamically.
+If the chatbot doesn't know an answer, modify `knowledge.json` manually or add functionality to let it learn dynamically.
 
 ## Contributing
 
