@@ -1,9 +1,9 @@
-# Simple Chatbot with JSON Knowledge Base
+# ChatSage
 
-This is a Python-based chatbot that retrieves answers from a JSON file. If the answer is not found, it informs the user. The bot also supports learning by updating the knowledge base.
+ChatSage is a smart and interactive chatbot designed to provide accurate answers to your questions. Powered by a structured knowledge base, ChatSage retrieves information from a JSON file, ensuring quick and reliable responses. If an answer isn’t available, it informs the user, making it a helpful learning companion.
 
 ## Features
-- Answers user questions based on `knowledge_base.json`
+- Answers user questions based on `knowledge.json`
 - Supports adding new knowledge
 - Simple and lightweight
 
@@ -21,7 +21,7 @@ This is a Python-based chatbot that retrieves answers from a JSON file. If the a
 
 1. Run the chatbot:
    ```sh
-   python chatbot.py
+   python main.py
    ```
 
 2. The chatbot will prompt you to ask questions. If the answer is found in `knowledge_base.json`, it will be displayed.
