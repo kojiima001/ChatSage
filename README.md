@@ -1,3 +1,5 @@
+![ChatSage Logo](chatSage_Logo.png)
+
 # ChatSage
 
 ChatSage is a smart and interactive chatbot designed to provide accurate answers to your questions. Powered by a structured knowledge base, ChatSage retrieves information from a JSON file, ensuring quick and reliable responses. If an answer isn’t available, it informs the user, making it a helpful learning companion.
